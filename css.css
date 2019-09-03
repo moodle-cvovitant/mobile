@@ -2,3 +2,11 @@
   background-color: #ECECEC;
   color: #52274E;
 }
+
+
+/** Header color */
+.toolbar-background-md,
+.toolbar-background-ios,
+.toolbar-background-wp {
+  background: #ECECEC;
+}
